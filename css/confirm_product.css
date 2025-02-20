@@ -1,0 +1,8 @@
+ /* index.php */
+* {
+    font-family: 'Prompt', sans-serif;
+    box-sizing: border-box;
+}
+.editImg{
+   width: 22px; 
+}

@@ -1,0 +1,83 @@
+*{
+    font-family: 'Prompt', sans-serif;
+}
+
+.formAddress{
+	padding-left: 32%;
+}
+.foot{
+    margin-top: 20px;
+}
+aside{
+    float:left;width:25%;
+    background-color:white;
+    margin-right:2%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+        
+aside li{
+    list-style:none;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: black;
+}
+article{
+    float:right; width:72%;
+    background-color:white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+A:link {
+text-decoration:none;
+}
+
+body{
+    background-color: #E9EAF5;
+}
+/*section{
+    margin-top: 30%;
+}*/
+a{
+    color: black;
+}
+h4{
+    text-align: center;
+}
+.data{
+    margin: auto;
+    width: 90%;
+    /*border: solid silver 0.5px;  
+    border-radius: 15px*/;
+}
+.logo{
+    padding-left: 3%;
+}
+.editImg{
+   width: 22px; 
+}
+.data1{
+    margin: auto;
+    width: 90%;
+    border: solid silver 0.5px;  
+    border-radius: 15px;
+    padding-left:5%;
+    font-size: 17px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+.logo_del{
+    padding-left: 62%;
+}
+ul li.active a{
+    color: blue;
+    font-weight: bold;
+}
+.container{
+    position: relative;
+}
+.logo_del button{
+    width:23%;
+    font-size: 17px;
+}
+

@@ -1,0 +1,40 @@
+* {
+    font-family: "Prompt", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+body {
+    position: relative;
+}
+
+nav {
+    font-size: 1.2rem !important;
+}
+
+.form-login {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3498db;
+}
+
+a {
+    color: #222222;
+}
+
+
+/* .small,
+small {
+    font-size: 80%;
+    font-weight: 400;
+} */
